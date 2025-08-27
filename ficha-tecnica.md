@@ -1,4 +1,4 @@
-# ReciclaPlus iOS - Documentación Técnica para Exposición 🎯
+# ReciclaPlus iOS - Documentación Técnica 🎯
 
 ## 📋 Índice de Contenidos
 
@@ -746,4 +746,4 @@ protocol UserManagerProtocol {
 
 ---
 
-**Esta documentación técnica proporciona una visión completa de la arquitectura, implementación y consideraciones de diseño del proyecto ReciclaPlus iOS, preparada para una exposición técnica de 20 minutos que cubra todos los aspectos importantes del desarrollo.**
+**Esta documentación técnica proporciona una visión completa de la arquitectura, implementación y consideraciones de diseño del proyecto ReciclaPlus iOS.**
