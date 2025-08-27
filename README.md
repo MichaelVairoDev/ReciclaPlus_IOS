@@ -1,7 +1,7 @@
 # ReciclaPlus iOS ♻️
 
 <div align="center">
-  **Una aplicación iOS innovadora para promover el reciclaje y la conciencia ambiental**
+  Una aplicación iOS innovadora para promover el reciclaje y la conciencia ambiental
   
   [![iOS](https://img.shields.io/badge/iOS-13.0+-blue.svg)](https://developer.apple.com/ios/)
   [![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)](https://swift.org/)
@@ -165,7 +165,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 - **Michael Vairo**
 - **Omar Ruiz**
-- Patrick Muñante**
+- **Patrick Muñante**
 
 ## 🔄 Changelog
 
