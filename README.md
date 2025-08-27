@@ -1,8 +1,6 @@
-# ReciclaPlus iOS 🌱♻️
+# ReciclaPlus iOS ♻️
 
 <div align="center">
-  <img src="ReciclaPlus/Assets.xcassets/AppIcon.appiconset/icon-1024.png" alt="ReciclaPlus Logo" width="200"/>
-  
   **Una aplicación iOS innovadora para promover el reciclaje y la conciencia ambiental**
   
   [![iOS](https://img.shields.io/badge/iOS-13.0+-blue.svg)](https://developer.apple.com/ios/)
@@ -44,7 +42,7 @@ ReciclaPlus/
 ### Prerrequisitos
 
 - **Xcode 12.0+**
-- **iOS 13.0+**
+- **iOS 13.0 o Superior**
 - **Swift 5.0+**
 - **Cuenta de desarrollador de Apple** (para ejecutar en dispositivo físico)
 
@@ -83,7 +81,7 @@ ReciclaPlus/
 El proyecto utiliza las siguientes configuraciones:
 
 - **Bundle Identifier**: `pe.cibertec.ReciclaPlus`
-- **Deployment Target**: iOS 13.0
+- **Deployment Target**: iOS 13.0 o Superior
 - **Google Sign-In**: Configurado via `GoogleService-Info.plist`
 
 ### API Backend
@@ -165,17 +163,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## 👥 Equipo de Desarrollo
 
-- **Desarrollador Principal**: [Tu Nombre]
-- **Diseño UI/UX**: [Nombre del Diseñador]
-- **Backend Developer**: [Nombre del Backend Dev]
-
-## 📞 Soporte
-
-¿Tienes preguntas o necesitas ayuda?
-
-- 📧 **Email**: soporte@reciclaplus.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/tu-usuario/ReciclaPlus_IOS/issues)
-- 📖 **Documentación**: [Wiki del Proyecto](https://github.com/tu-usuario/ReciclaPlus_IOS/wiki)
+- **Michael Vairo**
+- **Omar Ruiz**
+- Patrick Muñante**
 
 ## 🔄 Changelog
 
